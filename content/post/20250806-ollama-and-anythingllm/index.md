@@ -31,22 +31,22 @@ Ollama 是一款开源跨平台的大模型工具，主要用于在本地便捷�
 - **主要功能：**
 
 - - **广泛模型支持：** 兼容 Llama、Mistral、Gemma、Phi、DeepSeek 等多个主流开源模型，涵盖文本生成、代码开发、翻译等场景。
-  - **接口与集成： ** 提供 REST API 及 Python、JavaScript SDK，便于集成至各类项目与应用中。
+  - **接口与集成：** 提供 REST API 及 Python、JavaScript SDK，便于集成至各类项目与应用中。
   - **跨平台部署：** 支持 macOS、Linux、Windows（实验版）平台，并可通过 Docker 部署，灵活适配各种运行环境。
-  - **高效模型量化： **采用 GGUF 格式的 4-bit 量化模型，大幅降低资源需求，使消费级设备也能运行高参数模型。
+  - **高效模型量化：** 采用 GGUF 格式的 4-bit 量化模型，大幅降低资源需求，使消费级设备也能运行高参数模型。
   - **模型定制能力：** 通过 Modelfile 文件，用户可灵活配置温度、上下文长度、系统提示等参数，自定义模型行为。
 
 - **优势特点：**
 
 - - **部署简单：** 只需一行命令即可启动模型（如 ollama run llama2），自动完成模型下载与运行，极大降低部署门槛。
   - **隐私保护：** 所有模型推理过程完全在本地完成，无需将数据发送至云端，满足对数据敏感度高的业务需求。
-  - **社区活跃： ** Ollama 拥有活跃的开发者社区，持续推出中文微调版、医疗领域模型等多样化模型，并集成了如 Chatbox、Open WebUI 等交互工具，提升使用体验。
+  - **社区活跃：** Ollama 拥有活跃的开发者社区，持续推出中文微调版、医疗领域模型等多样化模型，并集成了如 Chatbox、Open WebUI 等交互工具，提升使用体验。
 
 ## 2）、安装及使用
 
-**安装：**https://ollama.com/download
+**安装：** https://ollama.com/download
 
-**可用模型清单：**https://ollama.com/search
+**可用模型清单：** https://ollama.com/search
 
 ## 3）、常用操作命令
 
@@ -79,7 +79,7 @@ Ollama 是一款开源跨平台的大模型工具，主要用于在本地便捷�
 
 ## 2）安装
 
-**官网地址：**https://anythingllm.com/
+**官网地址：** https://anythingllm.com/
 
 ## 3）结合 Ollama 搭建并使用本地 RAG 知识库
 
