@@ -17,7 +17,9 @@ weight: 1
 
 在此基础上，笔者有了进一步思考，为何不依托本地 LLM，结合已有 SQL 作为知识库，搭建一套本地 SQL 问答助手。基于此，进一步的实现开发的提效。
 
-基于此，搭建了本地 Ollama + AnythingLLM 来进行一次实践。
+基于此，搭建了本地 Ollama + AnythingLLM 来进行一次实践探索。
+
+---
 
 **RAG（Retrieval-Augmented Generation）是一种结合检索和生成的技术，通过先从外部知识库中检索相关信息，再由大语言模型生成回答，从而提升准确性和实用性。**
 
