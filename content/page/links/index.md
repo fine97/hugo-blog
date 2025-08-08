@@ -2,7 +2,7 @@
 title: 友情链接
 links:
   - title: 时间与精神的小屋
-    description: 前互娱 Flink 实时计算平台负责人林小铂的个人博客。
+    description: 前互娱 Flink 实时计算平台 Streamfly 负责人林小铂的个人博客。
     website: https://www.whitewood.me/
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
