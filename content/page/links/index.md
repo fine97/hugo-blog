@@ -1,9 +1,9 @@
 ---
 title: 友情链接
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
+  - title: 时间与精神的小屋
+    description: 前互娱 Flink 实时计算平台负责人林小铂的个人博客。
+    website: https://www.whitewood.me/
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
     main: 
@@ -11,10 +11,10 @@ menu:
         params:
             icon: link
 
-comments: false
+comments: true
 ---
 
-To use this feature, add `links` section to frontmatter.
+<!-- To use this feature, add `links` section to frontmatter.
 
 This page's frontmatter:
 
@@ -30,4 +30,4 @@ links:
     image: ts-logo-128.jpg
 ```
 
-`image` field accepts both local and external images.
+`image` field accepts both local and external images. -->
